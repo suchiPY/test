@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+#apps {
+    width: 100%;
+    height: 600px;
+    background-color: aliceblue;
+    align-content: center
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#games {
+   width: 100%;
+    height: 600px;
+    background-color: cyan; 
+}
+
+img {
+    height: 350px;
+    width: 400px; 
+}
+
+img:hover {
+    transform:scale(0.9)
+}
+
+#Mychatbots {
+   width: 100%;
+    height: 600px;
+    background-color: coral;
+}
+
+#MyProjects {
+ width: 100%;
+    height: 600px;
+    background-color: lightcoral;
+}
